@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abidsulaiman
-- 👀 I’m interested in travelling, designing, coding, eating
-- 🌱 I’m currently working with node js, react js, next js
-- 💞️ I’m looking to collaborate on google, facebook, microsoft, futur
+- 👀 I’m interested in travelling, designing, coding, eating, Mentorship
+- 🌱 I’m currently working with react js, next js, Gatsby js, Tailwind css, bootstrap, Material UI, Ant Design, SASS/SCSS, HTML, CSS, JS, Jquery, etc.
+- 💞️ I’m looking to collaborate on Google, Facebook, Microsoft, IBM, APPLE.
 - 📫 How to reach me Thrissur, Kerala, India - 680587 Ph.- +91 8594045414
 
