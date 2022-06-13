@@ -19,10 +19,6 @@ Want to know more about me? [Check out my portfolio.](https://abzdev.vercel.dev/
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Abidsulaiman&repo=marvel-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Abidsulaiman/telcon-usa">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Abidsulaiman&repo=telcon-usa&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
 <br>
 <br>
 
